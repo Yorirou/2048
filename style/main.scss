@@ -673,7 +673,7 @@ $i: 2;
 @while $i <= 2048 {
   div.game-container .tile.tile-#{$i} {
     .tile-inner {
-      background-image: url("/images/" + $i + ".jpg");
+      background-image: url("../images/" + $i + ".jpg");
       font-size: 0;
     }
   }
