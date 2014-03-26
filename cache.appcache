@@ -43,5 +43,18 @@ js/tile.js
 
 favicon.ico
 
+# Images
+images/2.jpg
+images/4.jpg
+images/8.jpg
+images/16.jpg
+images/32.jpg
+images/64.jpg
+images/128.jpg
+images/256.jpg
+images/512.jpg
+images/1024.jpg
+images/2048.jpg
+
 NETWORK:
 *
